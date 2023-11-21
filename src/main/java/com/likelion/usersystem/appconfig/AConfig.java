@@ -1,8 +1,8 @@
-package com.likelion.usersystem.AppConfig;
+package com.likelion.usersystem.appconfig;
 
-import com.likelion.usersystem.Controller.UserController;
-import com.likelion.usersystem.Repository.UserRepository;
-import com.likelion.usersystem.Service.UserService;
+import com.likelion.usersystem.controller.UserController;
+import com.likelion.usersystem.repository.UserRepository;
+import com.likelion.usersystem.service.UserService;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

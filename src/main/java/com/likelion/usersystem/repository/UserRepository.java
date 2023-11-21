@@ -1,4 +1,4 @@
-package com.likelion.usersystem.Repository;
+package com.likelion.usersystem.repository;
 
 public class UserRepository {
     public void saveUser(String username, String password) {

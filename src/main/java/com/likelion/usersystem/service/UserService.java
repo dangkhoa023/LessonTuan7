@@ -1,6 +1,6 @@
-package com.likelion.usersystem.Service;
+package com.likelion.usersystem.service;
 
-import com.likelion.usersystem.Repository.UserRepository;
+import com.likelion.usersystem.repository.UserRepository;
 
 
 public class UserService {

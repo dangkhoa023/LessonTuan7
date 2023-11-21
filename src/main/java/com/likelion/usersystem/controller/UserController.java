@@ -1,6 +1,6 @@
-package com.likelion.usersystem.Controller;
+package com.likelion.usersystem.controller;
 
-import com.likelion.usersystem.Service.UserService;
+import com.likelion.usersystem.service.UserService;
 
 public class UserController {
     private final UserService userService;
