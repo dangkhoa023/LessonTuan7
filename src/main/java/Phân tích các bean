@@ -1,0 +1,9 @@
+UserRepository
+Mục đích: Tạo và cấu hình một instance của lớp UserRepository.
+Vai trò: Lớp này tương tác với cơ sở dữ liệu và chịu trách nhiệm lưu trữ thông tin người dùng.
+UserService
+Mục đích: Tạo và cấu hình một instance của lớp UserService.
+Vai trò: Lớp này chứa logic nghiệp liên quan đến quản lý người dùng và có thể gọi các phương thức từ UserRepository
+UserController
+Mục đích: Tạo và cấu hình một instance của lớp UserController.
+Vai trò: Lớp này chịu trách nhiệm nhận yêu cầu từ client và chuyển chúng đến UserService để xử lý.
